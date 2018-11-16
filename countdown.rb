@@ -10,6 +10,6 @@ def countdown(i)
 end
 
 
-def countdown_with_sleep
-  sleep(5)
+def countdown_with_sleep(int)
+  sleep(int)
 end
